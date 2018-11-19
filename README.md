@@ -1,2 +1,2 @@
-# projetoTransformaVidas
-Projeto em C para cadastro de projetos da ONG Projeto Transforma vidas 
+ 
+Projeto em C para cadastro de projetos da ONG "Projeto Transforma vidas" 
